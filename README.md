@@ -1,1 +1,1 @@
-# charting_rocks
+# charting-rocks
